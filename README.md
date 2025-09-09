@@ -233,7 +233,7 @@ Upload the dist folder to Netlify
 
 Configure redirects for SPA routing
 # Manual Deployment
-<pre></pre>
+<pre>
 pnpm run build
 </pre>
 # Upload contents of 'dist' folder to your web server
