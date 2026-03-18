@@ -258,8 +258,6 @@ Open a Pull Request
 [ ] User authentication and progress saving
 [ ] Algorithm comparison mode
 </pre>
-# 📄 License
-This project is licensed under the MIT License - see the LICENSE file for details.
 
 # 🙏 Acknowledgments
 Inspired by algorithm visualization tools like VisuAlgo
