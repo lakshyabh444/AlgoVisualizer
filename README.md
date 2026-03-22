@@ -58,8 +58,6 @@ pnpm install
 pnpm run dev
 </pre>
 
-Open your browser Navigate to http://localhost:5173
-
 # Build for Production
 <pre>
 pnpm run build
